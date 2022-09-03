@@ -1,4 +1,4 @@
-# CRUD_with_MySQL_and_VB_UserInterface
+# UI-CRUD with MySQLand VB.NET
 
 This UI was coded with Visual Basic, using Visual Studio 2019. This Interface performs basic operations (Create, Read, Update, Delete) on a Table stored in a Data Base managed with MySQL.
 
